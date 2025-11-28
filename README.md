@@ -7,3 +7,4 @@
 
 [CPIForecast Final.xlsx](https://github.com/user-attachments/files/23830202/CPIForecast.Final.xlsx)
 
+[Charts for BUS 446 project.docx](https://github.com/user-attachments/files/23830237/Charts.for.BUS.446.project.docx)
